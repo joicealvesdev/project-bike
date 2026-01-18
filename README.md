@@ -19,6 +19,8 @@ The layout simulates the selection of different wheel models, with emphasis on *
 ## 🤖 Technologies Used
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/54fe9837-5107-4077-b11f-e6e090e2dd74" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f4663708-ac12-42be-afe6-0c13d8e014c1" />
+
+
 * Flexbox for layout structure
 * Modern and clean styling
 
